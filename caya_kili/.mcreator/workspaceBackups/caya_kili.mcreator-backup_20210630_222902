@@ -1,0 +1,41 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Zumrutkilicraft",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zumrutkilicraft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "caya_kili",
+    "modName": "CaYa Kýlýç",
+    "version": "1.0.0",
+    "author": "cagan, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.cayakili",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
