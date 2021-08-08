@@ -1,0 +1,7 @@
+{
+  "_fv": 18,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">block_break</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"entity_issneaking\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></value><statement name=\"DO0\"><block type=\"entity_execute_command\"><value name=\"command\"><block type=\"text\"><field name=\"TEXT\">clear</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></statement></block></next></block><block type=\"entity_get_slot\" x=\"268\" y=\"241\"><value name=\"slotid\"><block type=\"math_number\"><field name=\"NUM\">9</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block><block type=\"compare_mcitems\" x=\"-28\" y=\"347\"></block><block type=\"entity_getridingentity\" x=\"138\" y=\"345\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></xml>"
+  }
+}
