@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mod_bedrock:ca_hoe",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "ca_hoe",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

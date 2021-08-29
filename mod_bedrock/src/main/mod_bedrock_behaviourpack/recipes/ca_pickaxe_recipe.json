@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mod_bedrock:ca_pickaxe_recipe"
+    },
+    "groups": [
+      "mod_bedrock"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      " 4 ",
+      " 7 "
+    ],
+    "key": {
+      "0": {
+        "item": "mod_bedrock:ca_yacehver"
+      },
+      "1": {
+        "item": "mod_bedrock:ca_yacehver"
+      },
+      "2": {
+        "item": "mod_bedrock:ca_yacehver"
+      },
+      "4": {
+        "item": "minecraft:stick"
+      },
+      "7": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "mod_bedrock:ca_pickaxe",
+      "count": 1
+    }
+  }
+}

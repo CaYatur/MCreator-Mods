@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "ewes",
+    "uuid": "5f828c11-0ce2-3386-baf0-e2b52236711f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "32e867dd-15ba-3d0a-953c-0b37573f7e2f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "cagan, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

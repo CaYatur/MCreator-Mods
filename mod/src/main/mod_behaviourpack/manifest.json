@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "mod",
+    "uuid": "ad148a3c-a8bd-3ef3-b48c-52454c493ec5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "5610f555-fab9-347f-bb50-8e5c7f79ac4c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "2ab22a7e-0a94-38e7-8ef6-fb6c226af011",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "cagan, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

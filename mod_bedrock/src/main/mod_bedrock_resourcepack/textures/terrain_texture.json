@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "mod_bedrock_ca_yaw_up": {
+      "textures": [
+        "textures/blocks/ss"
+      ]
+    },
+    "mod_bedrock_ca_yaw_down": {
+      "textures": [
+        "textures/blocks/ss"
+      ]
+    },
+    "mod_bedrock_ca_yaw_south": {
+      "textures": [
+        "textures/blocks/ss"
+      ]
+    },
+    "mod_bedrock_ca_yaw_north": {
+      "textures": [
+        "textures/blocks/ss"
+      ]
+    },
+    "mod_bedrock_ca_yaw_west": {
+      "textures": [
+        "textures/blocks/ss"
+      ]
+    },
+    "mod_bedrock_ca_yaw_east": {
+      "textures": [
+        "textures/blocks/ss"
+      ]
+    }
+  }
+}

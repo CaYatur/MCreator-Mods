@@ -1,0 +1,24 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "ca_shovel": {
+      "textures": "textures/items/ca_shovel"
+    },
+    "ca_yacehver": {
+      "textures": "textures/items/caya"
+    },
+    "ca_sword": {
+      "textures": "textures/items/ca_sword"
+    },
+    "ca_pickaxe": {
+      "textures": "textures/items/ca_pickaxe"
+    },
+    "ca_axe": {
+      "textures": "textures/items/ca_axe"
+    },
+    "ca_hoe": {
+      "textures": "textures/items/ca_hoe"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mod_bedrock:mod_bedrock_ca_yaw_ore_feature"
+    },
+    "count": 16,
+    "places_block": "mod_bedrock:ca_yaw",
+    "may_replace": [
+      "minecraft:stone"
+    ]
+  }
+}

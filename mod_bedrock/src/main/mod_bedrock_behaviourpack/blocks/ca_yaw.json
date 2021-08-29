@@ -1,0 +1,20 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "mod_bedrock:ca_yaw",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:loot": "loot_tables/blocks/mod_bedrock_ca_yaw.json",
+      "minecraft:block_light_emission": 0,
+      "minecraft:destroy_time": 1,
+      "minecraft:explosion_resistance": 10,
+      "minecraft:friction": 0.6,
+      "minecraft:flammable": {
+        "flame_odds": 0,
+        "burn_odds": 0
+      }
+    }
+  }
+}

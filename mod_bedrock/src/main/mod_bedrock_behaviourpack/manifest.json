@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "mod bedrock",
+    "uuid": "4994ef70-8a38-3ae6-8243-06268630e253",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "d10b0880-de70-30d2-9d34-44c131a85a63",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "2610a103-f135-3b80-9098-406aa5993b7c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "cagan, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "mod_bedrock:ca_yaw": {
+    "textures": {
+      "up": "mod_bedrock_ca_yaw_up",
+      "down": "mod_bedrock_ca_yaw_down",
+      "south": "mod_bedrock_ca_yaw_south",
+      "north": "mod_bedrock_ca_yaw_north",
+      "west": "mod_bedrock_ca_yaw_west",
+      "east": "mod_bedrock_ca_yaw_east"
+    },
+    "sound": "stone"
+  }
+}

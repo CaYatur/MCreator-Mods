@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "mod",
+    "uuid": "2ab22a7e-0a94-38e7-8ef6-fb6c226af011",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "12316937-f2b0-38ee-b932-a4454b972c2f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "cagan, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

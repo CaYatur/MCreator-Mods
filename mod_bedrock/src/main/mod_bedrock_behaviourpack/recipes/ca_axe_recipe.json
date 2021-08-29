@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mod_bedrock:ca_axe_recipe"
+    },
+    "groups": [
+      "mod_bedrock"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "01",
+      "23",
+      " 5"
+    ],
+    "key": {
+      "0": {
+        "item": "mod_bedrock:ca_yacehver"
+      },
+      "1": {
+        "item": "mod_bedrock:ca_yacehver"
+      },
+      "2": {
+        "item": "mod_bedrock:ca_yacehver"
+      },
+      "3": {
+        "item": "minecraft:stick"
+      },
+      "5": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "mod_bedrock:ca_axe",
+      "count": 1
+    }
+  }
+}

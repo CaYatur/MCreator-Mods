@@ -1,0 +1,9 @@
+{
+  "_fv": 18,
+  "_type": "function",
+  "definition": {
+    "code": "fill 1 90 1 1 90 1 lava reload word",
+    "name": "e",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "mod bedrock",
+    "uuid": "2610a103-f135-3b80-9098-406aa5993b7c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "85e9f18b-b640-327d-a759-6d298e98eca3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "cagan, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

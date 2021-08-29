@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mod_bedrock:ca_pickaxe",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "ca_pickaxe",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

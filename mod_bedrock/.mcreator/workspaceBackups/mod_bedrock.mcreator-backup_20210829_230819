@@ -1,0 +1,138 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CaYacehver",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_yacehver"
+    },
+    {
+      "name": "CaPickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_pickaxe"
+    },
+    {
+      "name": "CaAxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_axe"
+    },
+    {
+      "name": "CaSword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_sword"
+    },
+    {
+      "name": "CaShovel",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_shovel"
+    },
+    {
+      "name": "CaHoe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_hoe"
+    },
+    {
+      "name": "CaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_pickaxe_recipe"
+    },
+    {
+      "name": "CaAxeRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_axe_recipe"
+    },
+    {
+      "name": "CaSwordRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_sword_recipe"
+    },
+    {
+      "name": "CaShovelRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_shovel_recipe"
+    },
+    {
+      "name": "CaHoeRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ca_hoe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mod_bedrock:ca_axe.name": "CaYa Balta",
+      "item.mod_bedrock:ca_hoe.name": "CaYa Çapa",
+      "item.mod_bedrock:ca_shovel.name": "CaYa Kürek",
+      "item.mod_bedrock:ca_yacehver.name": "CaYa",
+      "item.mod_bedrock:ca_pickaxe.name": "CaYa Kazma",
+      "item.mod_bedrock:ca_sword.name": "CaYa Kýlýç"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mod_bedrock",
+    "modName": "mod bedrock",
+    "version": "1.0.0",
+    "author": "cagan, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.16.x",
+    "modElementsPackage": "net.mcreator.modbedrock",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
