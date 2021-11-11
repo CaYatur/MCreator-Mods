@@ -1,0 +1,61 @@
+{
+  "scale": 0.2,
+  "depth": 0.1,
+  "precipitation": "rain",
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "category": "none",
+  "surface_builder": "elmasxd:dd",
+  "spawn_costs": {},
+  "player_spawn_friendly": true,
+  "parent": "elmasxd:dd",
+  "effects": {
+    "foliage_color": -16724788,
+    "grass_color": -16724788,
+    "sky_color": -16724788,
+    "fog_color": -16724788,
+    "water_color": -16724788,
+    "water_fog_color": -16724788
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis"
+    ],
+    [],
+    [],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "starts": []
+}

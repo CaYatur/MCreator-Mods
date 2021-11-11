@@ -1,0 +1,59 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Elmas",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elmas"
+    },
+    {
+      "name": "Net",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "net"
+    },
+    {
+      "name": "Ek",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ek"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "elmasxd",
+    "modName": "elmasxd",
+    "version": "1.0.0",
+    "author": "cagan, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.16.x",
+    "modElementsPackage": "net.mcreator.elmasxd",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
