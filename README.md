@@ -9,4 +9,4 @@ MCreator ile yaptığım Minecraft Forge/Bedrock mod çalışma alanları: CaYa 
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
